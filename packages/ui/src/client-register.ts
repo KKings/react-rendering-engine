@@ -1,0 +1,2 @@
+
+import "./client/AddToCart/register";
